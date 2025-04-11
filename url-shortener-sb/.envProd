@@ -1,0 +1,7 @@
+
+DATABASE_URL=jdbc:postgresql://ep-old-night-a54kqbet-pooler.us-east-2.aws.neon.tech/neondb?user=neondb_owner&password=npg_fwQ5jMtDOGe2&sslmode=require
+DATABASE_USERNAME=neondb_owner
+DATABASE_PASSWORD=npg_fwQ5jMtDOGe2
+DATABASE_DIALECT=org.hibernate.dialect.PostgreSQLDialect
+JWT_SECRET=fbdcb6b399492828c19391d6dd089bedeb3d9bfc4da15cbd148d7737c0119c78a13d352f6e9d0777e6ffd56b93aed17a2e47f428bdfccdfc1e2646c740d863cf
+FRONTEND_URL=http://localhost:5173
